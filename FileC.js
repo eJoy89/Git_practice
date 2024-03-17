@@ -9,5 +9,3 @@ console.log('added something in File C')
 
 //     -q, --quiet           be quiet, only report errors
 //     --index               attempt to recreate the index
-
-// PS C:\Users\cho89\OneDrive\바탕 화면\study\Git_practice> 
