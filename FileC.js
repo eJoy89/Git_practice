@@ -1,6 +1,7 @@
 console.log('Before merge')
 console.log('added something in File C')
 
+<<<<<<< Updated upstream
 
 console.log('commit check')
 
@@ -18,3 +19,6 @@ console.log('commit check')
 console.log('여기 확인')
 
 console.log('before stash')
+=======
+console.log('stash test')
+>>>>>>> Stashed changes
