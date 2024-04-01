@@ -5,3 +5,5 @@ console.log('stash test')
 
 
 console.log('Stash')
+
+// git stash clear
