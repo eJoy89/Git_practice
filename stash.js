@@ -13,3 +13,7 @@ console.log('stash list')
 console.log('it is first branch')
 
 console.log('fetch')
+
+// git change
+console.log('something change')
+// check by bash
