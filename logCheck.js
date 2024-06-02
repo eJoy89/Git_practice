@@ -22,3 +22,8 @@
 // }
 
 // adjustTrHeight();
+
+
+// document.querySelectorAll('td').forEach((list) => {
+//     list.style.height = list.scrollHeight + 'px';
+// });
