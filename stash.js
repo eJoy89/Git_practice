@@ -17,3 +17,7 @@ console.log('fetch')
 // git change
 console.log('something change')
 // check by bash
+
+// How to Merge it?
+// git stash push -m 'message' <- to save with message
+// and when I save through stash, the latest stash will save as stahs@{0} 
