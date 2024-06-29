@@ -27,3 +27,7 @@ console.log('something change')
 // 우선, 커밋 hash (혹은 id)를 확인해야 이전의 커밋으로 돌아갈 수 있습니다.
 // hash를 확인하기 위해서는 git log 혹은 git reflog를 실행하세요. 
 // 더 읽기 쉬운 git reflog가 더 나은 옵션이 될 수 있습니다
+
+
+// 권한
+// git config --global credential.helper wincred
