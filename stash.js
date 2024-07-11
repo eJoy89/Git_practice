@@ -31,5 +31,3 @@ console.log('something change')
 
 // 권한
 // git config --global credential.helper wincred
-
-// good luck to me...
