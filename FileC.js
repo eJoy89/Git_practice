@@ -7,3 +7,4 @@ console.log('Stash')
 
 // git stash clearg
 
+// 깃 원격 확인
